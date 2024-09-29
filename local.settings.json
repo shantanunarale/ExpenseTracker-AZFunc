@@ -5,6 +5,6 @@
     "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
     "AzureWebJobsStorage": "UseDevelopmentStorage=true",
     "ExpenseTrackerTableStorage": "UseDevelopmentStorage=true",
-    "ExpenseTableName": "trackevents"
+    "ExpenseTableName": "trackexpenseevents"
   }
 }
